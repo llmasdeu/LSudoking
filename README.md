@@ -1,2 +1,3 @@
 # LSudoking
-Sudoku solver using recursive algorithms
+
+GUI application coded in Java that solves Sudoku puzzles, using recursive algorithms.
